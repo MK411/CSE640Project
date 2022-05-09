@@ -1,0 +1,57 @@
+Atlanta,GA,New York,NY,150
+Atlanta,GA,Dallas,TX,130
+Atlanta,GA,Charlotte,NC,120
+Boston,MA,Chicago,IL,150
+Boston,MA,Atlanta,GA,80
+Charlotte,NC,Boston,MA,90
+Charlotte,NC,New York,NY,100
+Charlotte,NC,Chicago,IL,80
+Charlotte,NC,Los Angeles,CA,100
+Charlotte,NC,San Francisco,CA,90
+Chicago,IL,New York,NY,80
+Chicago,IL,Los Angeles,CA,70
+Chicago,IL,San Francisco,CA,100
+Chicago,IL,Atlanta,GA,120
+Dallas,TX,Chicago,IL,120
+Dallas,TX,Miami,FL,80
+Dallas,TX,San Francisco,CA,150
+Dallas,TX,Atlanta,GA,120
+Dallas,TX,Boston,MA,90
+Dallas,TX,Phoenix,AZ,70
+Denver,CO,Washington,DC,60
+Denver,CO,Miami,FL,90
+Denver,CO,Seattle,WA,70
+Denver,CO,Chicago,IL,80
+Los Angeles,CA,New York,NY,300
+Los Angeles,CA,Dallas,TX,100
+Miami,FL,Boston,MA,50
+Miami,FL,New York,NY,150
+Miami,FL,Chicago,IL,75
+New York,NY,Los Angeles,CA,300
+New York,NY,Chicago,IL,150
+New York,NY,Dallas,TX,100
+New York,NY,Denver,CO,90
+New York,NY,Phoenix,AZ,90
+Phoenix,AZ,Boston,MA,40
+Phoenix,AZ,Seattle,WA,120
+Seattle,WA,Chicago,IL,150
+Seattle,WA,Dallas,TX,200
+Washington,DC,Miami,FL,200
+Los Angeles,CA,Seattle,WA,250
+Los Angeles,CA,Denver,CO,120
+Los Angeles,CA,Phoenix,AZ,60
+San Francisco,CA,New York,NY,200
+San Francisco,CA,Seattle,WA,180
+San Francisco,CA,Los Angeles,CA,300
+San Francisco,CA,Denver,CO,105
+Las Vegas,NV,Los Angeles,CA,180
+Las Vegas,NV,Seattle,WA,80
+Las Vegas,NV,New York,NY,200
+Las Vegas,NV,Chicago,IL,160
+Washington,DC,San Francisco,CA,120
+Washington,DC,New York,NY,150
+Washington,DC,Boston,MA,100
+Washington,DC,Dallas,TX,180
+Washington,DC,Miami,FL,140
+Washington,DC,Chicago,IL,100
+Boston,MA,New York,NY,100
